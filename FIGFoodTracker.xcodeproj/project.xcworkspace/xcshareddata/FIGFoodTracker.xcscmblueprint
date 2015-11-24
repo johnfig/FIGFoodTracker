@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4E727C5BF16DB0EB17F93A8683DC1886FC4DF508",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4E727C5BF16DB0EB17F93A8683DC1886FC4DF508" : 0,
+    "C0D8EF86A604B55BCA689D5F426B4B6E73B85FFB" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "61376FD7-C5DD-4691-8E5C-FD6ADC0FB04B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4E727C5BF16DB0EB17F93A8683DC1886FC4DF508" : "FIGFoodTracker\/",
+    "C0D8EF86A604B55BCA689D5F426B4B6E73B85FFB" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FIGFoodTracker",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FIGFoodTracker.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/johnfig\/FIGFoodTracker.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4E727C5BF16DB0EB17F93A8683DC1886FC4DF508"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:johnfig\/mongoid.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C0D8EF86A604B55BCA689D5F426B4B6E73B85FFB"
+    }
+  ]
+}
